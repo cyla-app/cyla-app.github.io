@@ -1,0 +1,21 @@
+baseURL = "https://cyla-app.github.io/"
+languageCode = "en-us"
+title = "Cyla"
+theme = "hallo"
+
+[Author]
+    name = "Cyla"
+
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/cyla-app"
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:max@maxammann.org"
+
+    greeting = "Greetings!"
