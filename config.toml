@@ -19,3 +19,8 @@ defaultContentLanguage = "de"
         icon = "envelope"
         title = "E-mail"
         url = "mailto:max@maxammann.org"
+
+    [params.colors]
+        background = "#ffeded"
+        foreground = "#000"
+        hover = "#ffba82"
